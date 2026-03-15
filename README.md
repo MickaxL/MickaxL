@@ -45,4 +45,4 @@ see my repo for more.
 
 ## 🌐 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickaël_Paquet-blue?logo=linkedin)](www.linkedin.com/in/mickael-paquet-7a0638312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickaël_Paquet-blue?logo=linkedin)](https://www.linkedin.com/in/mickael-paquet-7a0638312)
