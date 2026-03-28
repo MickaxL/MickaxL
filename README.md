@@ -1,42 +1,48 @@
-# Mickaël Paquet
+# Hi, I'm Mickaël 👋
 
-**Junior IT Security — Hardening, Automation & Systems**
-
-Fresh graduate in Computer Science, specialising in Systems Security (Hénallux, Namur — 2026). 14-week internship at Quite Good S.A. (Luxembourg) focused on Linux server hardening and Ansible automation, aligned with NIST 800-53, ISO 27001, and CIS Benchmarks.
-
-Based in Arlon (Belgium), actively looking for junior opportunities in Luxembourg — SOC Analyst, DevSecOps, Sysadmin, IT Consulting.
-
----
-
-## Featured projects
-
-| Project | What it does |
-|---------|-------------|
-| [ansible-ubuntu-mini-hardening](https://github.com/MickaxL/ansible-ubuntu-mini-hardening) | Mini automated hardening baseline for Ubuntu servers — SSH hardening, file permissions, IPv6 disable, service cleanup. Inspired by CIS Benchmarks. |
-| [docker-monitoring-stack](https://github.com/MickaxL/docker-monitoring-stack) | Full monitoring stack (Prometheus + Grafana + Node Exporter + Alertmanager) with alert rules, healthchecks, and persistent storage. |
-| [bash-system-health-check](https://github.com/MickaxL/bash-system-health-check) | Bash script generating complete server health reports — CPU, RAM, disk, services, SSH history, failed logins, open ports. |
-| [ansible-elk-monitoring](https://github.com/MickaxL/ansible-elk-monitoring) | Centralized monitoring and security stack using ELK (Elasticsearch, Kibana, Beats), deployed via Ansible. |
-| [audit-toolkit](https://github.com/MickaxL/audit-toolkit) | Ansible-based audit tool — detects misconfigurations, rootkits, and suspicious activity on Linux systems. |
-| [ansible-security-attack-playbooks](https://github.com/MickaxL/ansible-security-attack-playbooks) | Ansible playbooks simulating realistic attacks for security testing and training purposes. |
-
-See [all repositories](https://github.com/MickaxL?tab=repositories) for more.
+🎓 Fresh graduate in **System Security** (Bachelor's degree) — Henallux, Namur, Belgium  
+🔐 Passionate about Linux hardening, automation & cybersecurity  
+🌍 Based in Belgium [Arlon], open to opportunities near **Luxembourg**  
+📬 Micktuic@gmail.com
 
 ---
 
-## Skills
+## 🛠️ Tech Stack & Skills
 
-**Security** — Linux hardening, CIS/NIST/ISO 27001 frameworks, penetration testing, forensics, Active Directory auditing, firewall configuration (nftables, Palo Alto), SIEM (ELK), incident response basics.
+**Security**
+- Linux Hardening · Active Directory · Palo Alto · 802.1X
+- Penetration Testing · Web Security (XSS, LFI/RFI, SQLi, Burp Suite)
+- SIEM (QRadar, ELK) · Forensics & Incident Response
 
-**Automation & infra** — Ansible (roles, playbooks, multi-distro), Bas
+**Automation & Sysadmin**
+- Ansible · Bash · Python
+- Ubuntu/Debian · Windows Server
+
+**Monitoring & Infra**
+- ELK Stack · Wazuh [<span style="color:red">[storage issue - WIP]</span>] · MySQL
+- Nginx · PostgreSQL · Virtualization
 
 ---
 
-## GitHub Activity
+## 📂 Featured Projects 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MickaxL&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" />
-</p>
+| Project | Description |
+|--------|-------------|
+| 🔒 [ansible-ubuntu-mini-hardening](https://github.com/MickaxL/ansible-ubuntu-mini-hardening) | Automated server hardening on Ubuntu via Ansible playbooks |
+| 🪟 [windows-ad-audit-tool](https://github.com/MickaxL/windows-ad-audit-tool) | Python tool to audit and harden Active Directory domains <span style="color:red">[WIP]</span>|
+| 📊 [ansible-elk-monitoring](https://github.com/MickaxL/ansible-elk-monitoring) | Centralized monitoring stack with ELK deployed via Ansible |
+| 🛡️ [audit-toolkit](https://github.com/MickaxL/audit-toolkit) | Detects misconfigurations, rootkits and suspicious activity |
+| 🐍 [python-playground](https://github.com/MickaxL/python-playground) | Python scripts: IP scanner, TCP server, keylogger (educational) |
+see my repo for more. 
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MickaxL&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📜 Learning
+
+- 🟡 TryHackMe — Active labs & challenges
+- 🟡 Root-Me — CTF & security exercises
+
+---
+
+## 🌐 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickaël_Paquet-blue?logo=linkedin)](https://www.linkedin.com/in/mickael-paquet-7a0638312)
